@@ -1,1 +1,3 @@
-Check test ONE-TWO-THREE
+puts "Good morning world!"
+
+puts "It is still early."
